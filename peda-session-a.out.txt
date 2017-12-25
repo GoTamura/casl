@@ -1,0 +1,5 @@
+break main
+break main.cpp:200
+break /home/mizakura/Documents/casl/main.cpp:213
+  condition $bpnum op == "JUMP"
+
